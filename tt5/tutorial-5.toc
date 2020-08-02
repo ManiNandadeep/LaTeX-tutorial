@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Linear Functions}{2}
+\contentsline {subsection}{\numberline {1.1}slope intercept form}{2}
+\contentsline {subsection}{\numberline {1.2}normal form}{2}
+\contentsline {subsection}{\numberline {1.3}point slope form}{2}
+\contentsline {section}{\numberline {2}Quadratic Functions}{2}
+\contentsline {subsection}{\numberline {2.1}solving Quadratic equation}{2}
+\contentsline {subsection}{\numberline {2.2}understanding parabola}{2}
